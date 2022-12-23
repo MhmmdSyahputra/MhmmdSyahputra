@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Muhammad Syahputra</h1>
-<h3 align="center">Stundent</h3>
+<h3 align="center">I’m currently studies of informatics at Mikroksil University</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
