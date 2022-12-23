@@ -1,3 +1,4 @@
+<h1 align="center">Muhammad Syahputra</h1>
 <h3 align="center">I’m currently studies of informatics at Mikroksil University</h3>
 
 <h3 align="left">Connect with me:</h3>
